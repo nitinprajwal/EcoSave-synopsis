@@ -26,9 +26,9 @@ EcoSave is a comprehensive solution for environmental conservation efforts. Our 
 - **Updates and News:** Keep users informed about the latest ecological efforts and updates.
 - **Designful Interface:** A visually appealing design to engage users.
 #### Images
-![Screenshot_13-7-2024_131014_](https://gist.github.com/user-attachments/assets/e3966692-6da6-4706-9f16-0311b131b30e)
-![Screenshot_13-7-2024_131213_](https://gist.github.com/user-attachments/assets/a4fbaab7-9fdf-407c-abb1-5f86326c5942)
-![Screenshot_13-7-2024_131233_](https://gist.github.com/user-attachments/assets/cd0873f3-4845-42b7-9ca8-e0a0eb9bdd63)
+![Screenshot_13-7-2024_131233_](https://github.com/user-attachments/assets/7d7fb782-0c85-4204-a008-d3b0e042e225)
+![Screenshot_13-7-2024_131213_](https://github.com/user-attachments/assets/0a8a3535-068b-4097-bdd3-50133b18877f)
+![Screenshot_13-7-2024_131014_](https://github.com/user-attachments/assets/fa9126fa-de96-4c34-9355-65004fcadaa8)
 
 
 
@@ -37,9 +37,10 @@ EcoSave is a comprehensive solution for environmental conservation efforts. Our 
 - **Update and Delete Events:** Manage events by updating details or removing them.
 - **Image Upload:** Post images of ecological activities to raise awareness.
 #### Images
-![Picture1](https://gist.github.com/user-attachments/assets/370a1f59-3e57-4ab3-9f2c-5bc4c052f086)
-![Picture2](https://gist.github.com/user-attachments/assets/dfffffe5-6820-436b-99e3-6c32647a39c3)
-![Picture3](https://gist.github.com/user-attachments/assets/f7ab7d23-ccbc-4dcd-8122-d9b9810ee303)
+![Picture3](https://github.com/user-attachments/assets/2532087c-9a4a-4247-940e-93f869bb4f8d)
+![Picture2](https://github.com/user-attachments/assets/b2d15bc6-d708-4020-b9b8-bc12a0c3d3a2)
+![Picture1](https://github.com/user-attachments/assets/1d877045-b0b8-49cd-b5d3-2aed1ec986c0)
+
 
 
 
@@ -48,9 +49,10 @@ EcoSave is a comprehensive solution for environmental conservation efforts. Our 
 - **Marketplace:** Redeem EcoCoins for natural products.
 - **Product Listings:** Browse and purchase eco-friendly products.
 #### Images
-![Screenshot 2024-07-13 135152](https://gist.github.com/user-attachments/assets/408d25e5-00dd-48d3-bdfc-b635fd39875b)
-![Screenshot 2024-07-13 135259](https://gist.github.com/user-attachments/assets/53bbb905-7b4c-4e18-b7ec-b6fafc58dd97)
-![Screenshot 2024-07-13 135335](https://gist.github.com/user-attachments/assets/00d33658-20eb-43f9-8f98-34f0e276b2f2)
+![Screenshot 2024-07-13 135335](https://github.com/user-attachments/assets/f715a472-20a0-4f2e-a148-96ade74d92bd)
+![Screenshot 2024-07-13 135259](https://github.com/user-attachments/assets/88be973e-da1d-4738-ac18-7370728842c4)
+![Screenshot 2024-07-13 135152](https://github.com/user-attachments/assets/49d9ffff-46a0-4bc5-b7b9-07aa31aec86f)
+
 
 
 
@@ -73,7 +75,7 @@ EcoSave is a comprehensive solution for environmental conservation efforts. Our 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 ## Database
-![PP0nQq8n58Nt_8fJkhpG2bfmAI9sSUdIeRlS9gSQU2-Hv2fFIlzxByyEWjbolkyUahjfAbLFG-yU8hzJ9bI-UdQZH-YbDOnOhT1zFZzkjszsFDPhTqYHQChAefSZctFN8PwPjNdyEE09qssN8bwHibhDnxlD0hEPmp_CCj3mMMeuIErUbajlBBA5cewQIZQe7](https://gist.github.com/user-attachments/assets/1c702c5d-77bd-455f-ab35-222385b88994)
+![PP0nQq8n58Nt_8fJkhpG2bfmAI9sSUdIeRlS9gSQU2-Hv2fFIlzxByyEWjbolkyUahjfAbLFG-yU8hzJ9bI-UdQZH-YbDOnOhT1zFZzkjszsFDPhTqYHQChAefSZctFN8PwPjNdyEE09qssN8bwHibhDnxlD0hEPmp_CCj3mMMeuIErUbajlBBA5cewQIZQe7](https://github.com/user-attachments/assets/2c57e83d-3f87-47db-96c2-d1b4c9c34a14)
 
 
 ## Installation
